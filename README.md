@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=marcusnunes&color=lightslategrey&label=profile+views" alt="marcusnunes" />
+
+
 <!--
 **marcusnunes/marcusnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
