@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=marcusnunes&color=lightslategrey&label=profile+views" alt="marcusnunes" />
+<img src="https://komarev.com/ghpvc/?username=marcusnunes&color=black&label=profile+views" alt="marcusnunes" />
 
 
 <!--
