@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcusnunes" />
-
 <img src="https://komarev.com/ghpvc/?username=marcusnunes&color=blue&label=profile+views" alt="marcusnunes" />
 
 
